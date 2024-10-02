@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">birrlive</string>
+    <string name="title_activity_main">birrlive</string>
+    <string name="package_name">com.birrlive.app</string>
+    <string name="custom_url_scheme">com.birrlive.app</string>
+</resources>
